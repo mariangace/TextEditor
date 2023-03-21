@@ -4,6 +4,6 @@ Practicing with DOM and BOM in JS
 
 ## Live version here:
 
-[text-editor.bunnycoding.com](https://text-editor.bunnycoding.com/):
+[text-editor.mariangarcia.site](https://text-editor.mariangarcia.site/):
 
-![screenshot](https://text-editor.bunnycoding.com/images/screen.png)
+![screenshot](https://text-editor.mariangarcia.site/images/screen.png)
